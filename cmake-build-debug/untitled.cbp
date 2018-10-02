@@ -87,6 +87,12 @@
 		<Unit filename="/home/yuguanfeng/ClionProjects/untitled/main.cpp">
 			<Option target="untitled"/>
 		</Unit>
+		<Unit filename="/home/yuguanfeng/ClionProjects/untitled/src/test.cpp">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="/home/yuguanfeng/ClionProjects/untitled/src/test.h">
+			<Option target="untitled"/>
+		</Unit>
 		<Unit filename="/home/yuguanfeng/ClionProjects/untitled/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\"/>
 		</Unit>
